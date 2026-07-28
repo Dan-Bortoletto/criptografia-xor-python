@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/4542a70f-8d37-4892-a766-224e8df38714
+
 # Criptografia XOR em Python
 
 Sistema simples de criptografia e descriptografia de mensagens em Python, utilizando cifra **XOR** com uma chave simétrica gerada aleatoriamente.
